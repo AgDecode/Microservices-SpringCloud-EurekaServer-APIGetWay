@@ -1,1 +1,3 @@
 rootProject.name = 'Microservices-SpringCloud-EurekaServer-APIGetWay'
+
+includeBuild 'eureka-server'
